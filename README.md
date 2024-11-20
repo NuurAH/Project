@@ -1,2 +1,2 @@
 # Project
-##subtitle Project for uni
+subtitle Project for uni
